@@ -1,3 +1,5 @@
 # [React Native] Diary App
-<div data-snack-id="@emma.kim/diary" data-snack-platform="web" data-snack-preview="true" data-snack-theme="light" style="overflow:hidden;background:#fafafa;border:1px solid rgba(0,0,0,.08);border-radius:4px;height:505px;width:100%"></div>
-<pre><script async src="https://snack.expo.io/embed.js"></script></pre>
+## 📦 Package
+<i>(Linked to npmjs.com)</i>
+- <a href="https://www.npmjs.com/package/@react-navigation/stack" title="@react-native/stack on npmjs.com">@react-native/stack</a>
+- <a href="https://www.npmjs.com/package/@react-navigation/bottom-tabs" title="@react-native/bottom-tabs on npmjs.com">@react-navigation/bottom-tabs</a>
